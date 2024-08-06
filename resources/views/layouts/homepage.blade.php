@@ -13,7 +13,7 @@
         <div class="container mx-auto flex items-center justify-between px-4">
             <!-- Logo and Company Name -->
             <div class="flex items-center">
-                <img src="{{ asset('assets/images/logo.png') }}" alt="Company Logo" class="h-8 mr-3">
+                <img src="{{ asset('assets/img/logo-c.png') }}" alt="Company Logo" class="h-8 mr-3">
                 <span class="text-xl text-black font-semibold">Diaspora Support</span>
             </div>
             <!-- Authentication Links -->
